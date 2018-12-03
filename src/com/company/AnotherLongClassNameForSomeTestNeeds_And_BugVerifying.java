@@ -2,7 +2,7 @@ package com.company;
 
 import org.junit.Test;
 
-public class AnotherLongClassNameForSomeTestNeedsAndBugVerifying {
+public class AnotherLongClassNameForSomeTestNeeds_And_BugVerifying {
 
 
     @Test
